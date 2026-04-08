@@ -46,6 +46,5 @@ int main() {
     
     // Final render to show robot at fire location
     renderSimulation(roomSize, robotX, robotY, fireX, fireY);
-    
     return 0;
 }
